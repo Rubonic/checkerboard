@@ -1,0 +1,33 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+.gameSquares {
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.squares1 {
+    background-color: darkblue;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    align-items: center;
+}
+
+.squares2 {
+    background-color: cyan;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    align-items: center;
+}
